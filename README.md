@@ -1,20 +1,16 @@
 # LAPORAN TUGAS BESAR PRAKTIKUM PEMROGRAMAN BERORIENTASI OBJEK
+Nama : Daffa Rayhan Riadi
 
-<hr>
+NIM : 20104023
 
-### PENDAHULUAN
+### Nama Kelompok
 
-<hr>
-
-*1.1 Latar Belakang* <br>
-
-Pada era modern seperti ini banyak masyarakat membutuhkan kendaraan untuk bepergian seperti kendaraan pribadi, kebanyakan kendaraan yang dibutuhkan dan diminati yaitu kendaraan roda empat. Dengan menggunakan kendaraan pribadi itu lebih leluasa dalam beraktivitas di bandingkan dengan menggunakan kendaraan umum. Oleh karena itu dengan menggunakan java kami mencoba membuat program yang nantinya dapat membantu kegiatan penyewaan kendaraan. <br>
-
-*1.2 Tujuan* <br>
-
-Selain untuk memenuhi tugas matakuliah Praktikum Pemrograman Berbasis Objek dengan membuat sebuah program bertemakan "Penyewaan Kendaraan", program ini d…
-[22.38, 5/1/2022] Aditya Rizkiawan Nugraha: # LAPORAN TUGAS BESAR PRAKTIKUM PEMROGRAMAN BERORIENTASI OBJEK
-
+| **NAMA** | **NIM** |
+| :--- | :---: |
+| Aditya Rizkiawan Nugraha | 20104006 |
+| Daffa Rayhan Riadi | 20104023 |
+| Fauzan Fashihul Lisan | 20104029 |
+| Hastin Ajeng Shalma | 20104030 |
 <hr>
 
 ### PENDAHULUAN
